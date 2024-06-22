@@ -1,0 +1,14 @@
+{
+	"geode": "3.0.0-beta.5",
+	"gd": {
+		"win": "2.206"
+	},
+	"version": "v1.0.0",
+	"id": "lynxdeer.mute_on_unfocus",
+	"name": "Mute On Unfocus",
+	"developer": "Lynxdeer",
+	"tags": ["enhancement", "utility"],
+	"repository": "https://github.com/Lynxdeer/MuteOnUnfocus",
+	"description": "Mutes the game when it's unfocused.",
+	"early-load": true
+}
